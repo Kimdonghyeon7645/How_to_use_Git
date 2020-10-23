@@ -82,7 +82,7 @@ fetch로 받아온 원본 저장소(upstream/master)를 현재 저장소와 reba
 
 (여기서 나는 rebase --continue로 안넘기고 commit 했다;; 그리고 rebase --skip해서 이와 같은 화면이다.)
 
-![image-20201022200857510](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20201022200857510.png)
+![image](https://user-images.githubusercontent.com/48408417/96956769-f30a8380-1533-11eb-9da3-6bf9905344b6.png)
 
 (그럴 생각도 없었는데, 어쩌다 보니 reflog도 써보게 됬다. 
 정말 너무 신세계였따...)
