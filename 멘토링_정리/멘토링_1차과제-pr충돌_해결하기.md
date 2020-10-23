@@ -17,7 +17,7 @@
 
 그런데 여기서 이렇게, 작성한 파일```hello.world```의 같은 부분을 각각 수정하고 커밋해 보면 어떨까?
 
-![image-20201022193120219](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20201022193120219.png)
+![image](https://user-images.githubusercontent.com/48408417/96956254-9d81a700-1532-11eb-950b-8ce054c26ecc.png)
 
 이렇게 되면, 한 파일```hello.world```에 대해서 버전1은 동일해도, 버전2는 서로 다른 버전을 가지게 된다.
 
