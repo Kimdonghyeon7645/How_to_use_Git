@@ -8,7 +8,7 @@
     -> 그 안에 저장소(.git 폴더) 생성
 - ### git config user.name, git config user.email
     ```commandline
-    git comfig user.name 'my_name'
+    git cofig user.name 'my_name'
     git config user.email 'my_email@ppap.kr'
     ```
     사용자의 아이디와 이메일을 설정 (커밋할 때 필요함) 
